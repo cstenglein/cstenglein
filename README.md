@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello world 👋
 
-<!--
-**cstenglein/cstenglein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Christoph, a Web developer located in Austria 🇦🇹 (the one without Kangaroos 🦘).
 
-Here are some ideas to get you started:
+About me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently building [raspiblitz-web](https://github.com/cstenglein/raspiblitz-web), a WebUI for the [RaspiBlitz](https://github.com/rootzoll/raspiblitz)
+- 👨‍💻 Languages I use:
+  - [Angular](https://angular.io/)
+  - [React](https://reactjs.org/)
+  - [Go](https://golang.org/)
+  - [Java](https://openjdk.java.net/)
+- 💻 Also got some basic scripting skills with [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+- 🐧 Enthusiastic linux user
+- 📫 How to reach me:
+  - [My website](https://www.cstenglein.com)
+  - [Twitter](https://twitter.com/_cstenglein_)
